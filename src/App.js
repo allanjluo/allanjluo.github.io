@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to my Homepage
+          Allan Luo
         </a>
       </header>
     </div>
