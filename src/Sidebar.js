@@ -1,7 +1,7 @@
 import React from 'react';
 
 function sidebar() {
-  return <div></div>;
+  return <div>Allan Luo</div>;
 }
 
 export default sidebar;
